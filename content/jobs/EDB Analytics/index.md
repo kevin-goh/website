@@ -8,5 +8,5 @@ url: 'https://www.edb.gov.sg/'
 ---
 
 - Drove data analysis and forecasting across a diverse range of projects, to manage risk and optimize resource allocation
-- Languages/software: Python, SQL, Excel, Tableau
+- Languages/software used: Python, SQL, Excel, Tableau
 - Communicate with engineers and senior stakeholders on a daily basis
