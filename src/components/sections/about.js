@@ -135,9 +135,9 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Kevin and I enjoy studying data and the stories they tell. My
-              interest in data started when I took a self-led course in data science in 2021. That's
-              when I discovered a love for problem-solving with data through code.
+              Hello! My name is Kevin and I enjoy studying data. My interest in data started when I
+              took a self-led course in data science in 2021. That's when I discovered a love for
+              data-driven problem solving.
             </p>
 
             <p>

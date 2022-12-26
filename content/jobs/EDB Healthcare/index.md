@@ -1,5 +1,5 @@
 ---
-date: '2020-4-1'
+date: '2020-04-1'
 title: 'Account Manager'
 company: 'Economic Development Board'
 location: 'Singapore'
