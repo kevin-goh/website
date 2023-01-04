@@ -1,7 +1,7 @@
 ---
 date: '2020-08-1'
 title: 'Data Analyst'
-company: 'Economic Development Board'
+company: 'EDB'
 location: 'Singapore'
 range: 'August 2020 - Present'
 url: 'https://www.edb.gov.sg/'

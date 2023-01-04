@@ -1,7 +1,7 @@
 ---
 date: '2020-04-1'
 title: 'Account Manager'
-company: 'Economic Development Board'
+company: 'EDB'
 location: 'Singapore'
 range: 'April 2020 - Present'
 url: 'https://www.edb.gov.sg'
