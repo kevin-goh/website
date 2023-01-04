@@ -66,7 +66,7 @@ const Hero = () => {
     <>
       <p>
         By day, I am an account manager and data analyst for the{' '}
-        <a href="https://upstatement.com/" target="_blank" rel="noreferrer">
+        <a href="https://edb.gov.sg/" target="_blank" rel="noreferrer">
           Singapore Government
         </a>
         , where I'm focused on ensuring the prudent use and safeguarding of Singapore's tax coffers.
