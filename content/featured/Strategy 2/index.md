@@ -1,6 +1,6 @@
 ---
 date: '2'
-title: 'Mean Reversion Pair Trading Strategy #2'
+title: 'Pair Trading Strategy #2'
 cover: './mean_reversion_2.png'
 github: ''
 external: ''
@@ -13,3 +13,5 @@ Second pair trading strategy on a select 5 pairs of stocks, with the ticket size
 
 - Maximum recorded loss is -$15,127.03
 - Maximum recorded profit is $3,800,598.31
+
+Last updated: Jan'22
