@@ -11,7 +11,7 @@ tech:
 
 Second pair trading strategy on a select 5 pairs of stocks, with the ticket size for each triggered trade (long/short) valued at $1m. From 2010-2022:
 
-- Maximum recorded loss is -$15,127.03
-- Maximum recorded profit is $3,800,598.31
+- Maximum recorded loss is -$16,727.03
+- Maximum recorded profit is $5,771,002.04
 
 Last updated: Jan'22
