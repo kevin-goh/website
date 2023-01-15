@@ -1,6 +1,6 @@
 ---
 date: '2'
-title: 'Mean Reversion Pair Trading Strategy #2'
+title: 'Pair Trading Strategy #2'
 cover: './mean_reversion_2.png'
 github: ''
 external: ''
@@ -9,7 +9,9 @@ tech:
   - yfinance
 ---
 
-Second pair trading strategy on a select 5 pairs of stocks, with the ticket size for each triggered trade (long/short) valued at $1m. From 2010-2022:
+Second pair trading strategy on a select 6 pairs of stocks, with the ticket size for each triggered trade (long/short) valued at $1m. From 2010-2022:
 
-- Maximum recorded loss is -$15,127.03
-- Maximum recorded profit is $3,800,598.31
+- Maximum recorded loss is -$16,727.03
+- Maximum recorded profit is $5,771,002.04
+
+Last updated: Jan'22

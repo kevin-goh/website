@@ -1,6 +1,6 @@
 ---
 date: '1'
-title: 'Mean Reversion Pair Trading Strategy #1'
+title: 'Pair Trading Strategy #1'
 cover: './finalresult.png'
 github: ''
 external: ''
@@ -13,3 +13,5 @@ First pair trading strategy on a select 6 pairs of stocks, with the ticket size 
 
 - Maximum recorded loss is -$21,560.12
 - Maximum recorded profit is $15,610,691.54
+
+Last updated: Jan'22
