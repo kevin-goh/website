@@ -9,4 +9,4 @@ company: 'IvyPrep'
 showInProjects: true
 ---
 
-Built a recommender tool using KNN to suggest safety and reach schools for college applications, based on student preferences and credentials. Saved [IvyPrep](https://ivyprep.com.sg) an estimated 2-4 hours of desktop research for every new client.
+Built a recommender tool to suggest safety and reach schools for college applications, based on student preferences and credentials. Saved [IvyPrep](https://ivyprep.com.sg) an estimated 2-4 hours of desktop research for every new client.
