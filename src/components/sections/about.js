@@ -144,14 +144,16 @@ const About = () => {
               Just one year on, I've taken this interest in many directions: I've had the privilege
               of putting my skills in data science/analytics to use with{' '}
               <a href="https://www.edb.gov.sg/">the Singapore Government</a> and{' '}
-              <a href="https://ivyprep.com.sg/">a college admissions consultancy</a>, and I've even
-              gone as far as to start a part-time Masters in Financial Engineering. In my free time
-              I conduct my own quantitative research to generate profitable trading strategies.
+              <a href="https://ivyprep.com.sg/">a college admissions consultancy</a>. In my free
+              time I conduct my own quantitative research on financial data.Primarily I work in
+              Python, SQL, and occasionally Excel - but am always open to picking up new languages
+              too.
             </p>
 
             <p>
-              Primarily I work in Python, SQL, and occasionally Excel - but am always open to
-              picking up new languages too!
+              I graduated from Cornell University with a B.A and triple major in Economics,
+              Philosophy, and Political Science. I am currently pursuing a part-time MFE with the
+              National University of Singapore.
             </p>
           </div>
         </StyledText>
