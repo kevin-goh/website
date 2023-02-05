@@ -145,7 +145,7 @@ const About = () => {
               of putting my skills in data science/analytics to use with{' '}
               <a href="https://www.edb.gov.sg/">the Singapore Government</a> and{' '}
               <a href="https://ivyprep.com.sg/">a college admissions consultancy</a>. In my free
-              time I conduct my own quantitative research on financial data.Primarily I work in
+              time I conduct my own quantitative research on financial data. Primarily I work in
               Python, SQL, and occasionally Excel - but am always open to picking up new languages
               too.
             </p>
