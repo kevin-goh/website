@@ -15,7 +15,7 @@ const IconLoader = () => (
           fill="currentColor"
           fontSize="32px"
           fontFamily="Calibre, San Francisco, SF Pro Text">
-          KG
+          K
         </text>
       </g>
       <path
