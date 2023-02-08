@@ -11,7 +11,7 @@ const IconLoader = () => (
         /> */}
         <text
           x="28"
-          y="52"
+          y="50"
           fill="currentColor"
           fontSize="36px"
           fontFamily="Calibre, San Francisco, SF Pro Text">
