@@ -10,10 +10,10 @@ const IconLoader = () => (
           fill="currentColor"
         /> */}
         <text
-          x="25"
+          x="30"
           y="53"
           fill="currentColor"
-          fontSize="32px"
+          fontSize="36px"
           fontFamily="Calibre, San Francisco, SF Pro Text">
           K
         </text>
