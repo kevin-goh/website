@@ -11,7 +11,7 @@ const IconLogo = () => (
         /> */}
         <text
           x="28"
-          y="55"
+          y="58"
           fill="currentColor"
           fontSize="36px"
           fontFamily="Calibre, San Francisco, SF Pro Text">
