@@ -10,7 +10,7 @@ const IconLoader = () => (
           fill="currentColor"
         /> */}
         <text
-          x="20"
+          x="25"
           y="53"
           fill="currentColor"
           fontSize="32px"
