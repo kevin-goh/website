@@ -13,7 +13,7 @@ const IconLoader = () => (
           x="28"
           y="55"
           fill="currentColor"
-          fontSize="36px"
+          fontSize="40px"
           fontFamily="Calibre, San Francisco, SF Pro Text">
           K
         </text>
