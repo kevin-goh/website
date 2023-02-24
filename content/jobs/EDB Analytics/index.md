@@ -7,6 +7,5 @@ range: 'August 2020 - Present'
 url: 'https://www.edb.gov.sg/'
 ---
 
-- Drove data analysis and forecasting across a diverse range of projects, to manage risk and optimize resource allocation
+- Driving data analysis and forecasting across a diverse range of projects, to manage risk and optimize resource allocation
 - Languages/software used: Python, SQL, Excel, Tableau
-- Communicate with engineers and senior stakeholders on a daily basis
