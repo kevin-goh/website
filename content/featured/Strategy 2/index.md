@@ -1,6 +1,6 @@
 ---
 date: '2'
-title: 'Equity Pair Trading Strategy #2'
+title: 'Pair Trading Strategy #2'
 cover: './mean_reversion_2.png'
 github: ''
 external: ''
