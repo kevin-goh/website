@@ -1,6 +1,6 @@
 ---
 date: '3'
-title: 'Mean Reversion Strategy #1'
+title: 'Equity Mean Reversion Strategy #1'
 cover: './03 single v industry.png'
 github: ''
 external: ''

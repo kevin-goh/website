@@ -1,6 +1,6 @@
 ---
 date: '1'
-title: 'Pair Trading Strategy #1'
+title: 'Equity Pair Trading Strategy #1'
 cover: './01 result.png'
 github: ''
 external: ''
