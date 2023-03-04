@@ -1,5 +1,5 @@
 ---
-date: '2023-02-01'
+date: '2023-03-01'
 title: 'Risk-aware Equity Forecasting Model (WIP)'
 github: ''
 external: ''

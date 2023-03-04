@@ -1,5 +1,5 @@
 ---
-date: '2023-02-01'
+date: '2023-03-01'
 title: 'Cryptocurrency Signal Generator v2 (WIP)'
 github: ''
 external: ''
