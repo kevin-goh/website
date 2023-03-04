@@ -1,6 +1,6 @@
 ---
 date: '2021-08-01'
-title: 'Cryptocurrency Signal Generator'
+title: 'Cryptocurrency Signal Generator v1'
 github: ''
 external: ''
 tech:
