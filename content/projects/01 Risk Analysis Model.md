@@ -1,6 +1,6 @@
 ---
 date: '2023-03-01'
-title: 'Risk-aware Equity Forecasting Model (WIP)'
+title: 'Research: Risk Indicators in Stock Return Forecasting'
 github: ''
 external: ''
 tech:
@@ -8,4 +8,4 @@ tech:
 showInProjects: true
 ---
 
-ML-enabled model incorporating market and self-mined risk factors to forecast movement of equity prices.
+Research on the utility of credit risk factors in forecasting stock returns, in terms of explanatory and predictive power when applied to LightGBM.

@@ -9,4 +9,4 @@ company: ''
 showInProjects: true
 ---
 
-Second iteration of trading signal generator for cryptocurrency, incorporating macroeconomic and text mining signals and as applied to current bear market.
+Second iteration of trading signal generator for cryptocurrency, incorporating macroeconomic and text mining signals.
