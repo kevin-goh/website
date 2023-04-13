@@ -1,6 +1,6 @@
 ---
 date: '2020-08-1'
-title: 'Data Analyst & Product co-Manager'
+title: 'Product co-Manager & Data Analyst'
 company: 'EDB'
 location: 'Singapore'
 range: 'August 2020 - Present'
