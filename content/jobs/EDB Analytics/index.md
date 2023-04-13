@@ -1,5 +1,5 @@
 ---
-date: '1'
+date: '3'
 title: 'Product co-Manager & Data Analyst'
 company: 'EDB'
 location: 'Singapore'
