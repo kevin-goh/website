@@ -14,4 +14,4 @@ Second fundamental-backed, mean-reversion pair trading strategy on 6 stock pairs
 - Maximum drawdown is -$175,957.85
 - Maximum recorded profit is $6,336,948.50
 
-Last updated: Jan'22
+Last updated: Jan'23

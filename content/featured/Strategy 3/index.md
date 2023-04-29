@@ -14,4 +14,4 @@ Pure mean reversion strategy on 7 stocks, with the ticket size for each triggere
 - Maximum drawdown is -$204,369.31
 - Maximum recorded profit is $14,204,565.66
 
-Last updated: Jan'22
+Last updated: Jan'23
