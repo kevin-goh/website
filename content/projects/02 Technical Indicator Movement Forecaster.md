@@ -1,6 +1,6 @@
 ---
-date: '2023-02-23'
-title: 'Technical Indicator Movement Forecaster'
+date: '1'
+title: 'Technical Indicator Movement Forecaster (WIP)'
 github: ''
 external: ''
 tech:
