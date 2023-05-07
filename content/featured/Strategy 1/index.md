@@ -9,9 +9,11 @@ tech:
   - yfinance
 ---
 
-Fundamental-backed, mean-reversion pair trading strategy on 6 stock pairs, with the ticket size for each triggered trade (long/short) valued at $1m. From 1995-2022:
+Fundamental-backed, mean-reversion pair trading strategy on 2 stock pairs, with the ticket size for each triggered trade (long/short) valued at $1m. From Dec'22 to present:
 
-- Maximum drawdown is -$194,261.49
-- Maximum recorded profit is $18,768,260.42
+- Maximum recorded loss (including trading costs) = -$1,979.74.
+- Maximum recorded profit = $278,753.39.
+- Strategy mean daily return (including non-trading days) = $1,781.87.
+- 2023 YTD profit = $123,115.65.
 
-Last updated: Jan'23
+Last updated: May'23
