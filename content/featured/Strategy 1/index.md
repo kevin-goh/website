@@ -9,11 +9,15 @@ tech:
   - yfinance
 ---
 
-Fundamental-backed, mean-reversion pair trading strategy on 3 stock pairs, with the ticket size for each triggered trade (long/short) valued at $1m. From Oct'22 to present:
+Fundamental-backed, mean-reversion pair trading strategy on 6 stock pairs, with the ticket size for each triggered trade (long/short) valued at $1m.
 
-- Maximum recorded loss\* = -$51,099.24
-- Maximum recorded profit = $404,156.58
-- TTM profit = $329,713.81
+Stock-pairs were incorporated into the strategy at varying time periods, whenever they qualified.
+
+From Jan'19 to present:
+
+- Maximum lifetime loss\* = -$175,777.08
+- Maximum lifetime profit = $3,509,508.58
+- TTM profit = $1,600,660.82
 
 \*Losses include trading costs.
 
