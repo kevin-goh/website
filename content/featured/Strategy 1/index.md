@@ -15,9 +15,9 @@ Stock-pairs were incorporated into the strategy at varying time periods, wheneve
 
 From Jan'19 to present:
 
-- Maximum lifetime loss\* = -$175,777.08
-- Maximum lifetime profit = $3,509,508.58
-- TTM profit = $1,600,660.82
+- Maximum lifetime loss\* = -$129,918.62
+- Maximum lifetime profit = $2,870,243.33
+- TTM profit = $1,820,094.81
 
 \*Losses include trading costs.
 
