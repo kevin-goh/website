@@ -1,6 +1,6 @@
 ---
 date: '1'
-title: 'Tech Lead/Engineer (pro bono)'
+title: 'Tech Lead/Engineer (Freelance)'
 company: 'IvyPrep'
 location: 'Singapore'
 range: 'September 2021 - Present'
